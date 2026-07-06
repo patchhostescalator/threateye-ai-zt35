@@ -1,4 +1,4 @@
-# 
+# Exclusive ThreatEye installer. Download and install with real-time-monitoring and compatibility-check — fast, secure, and easy to use.
 
 
 
